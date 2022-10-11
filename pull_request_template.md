@@ -16,7 +16,6 @@
 - [ ] Developer testing
 - [ ] Unit tests
 - [ ] Test plan
-- [ ] SQL DDL approved by DDL Deliberation Panel
 
 ### Screenshots
 
