@@ -16,6 +16,7 @@
 - [ ] Developer testing
 - [ ] Unit tests
 - [ ] Test plan
+- [ ] [Create Config/Release Tasks in DOPS Project](https://myupdox.atlassian.net/wiki/spaces/EN/pages/2214166547/Tasks+for+the+Release)
 
 ### Screenshots
 

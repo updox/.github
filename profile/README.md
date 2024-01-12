@@ -9,7 +9,7 @@ Writing in:
 - JavaScript and TypeScript
     - [Vue](https://vuejs.org/)
     - [React](https://reactjs.org/)
-    - [Angular v1](https://angularjs.org/) - (Legacy)
+    - [Angular](https://angularjs.org/) - (Legacy)
 - Ruby on Rails - (Admin UIs)
 - and more!
 
