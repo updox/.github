@@ -22,4 +22,4 @@
 
 _If they make sense_
 
-![Random Cat](https://cataas.com/cat?type=md)
+![Random Cat](https://cataas.com/cat?type=small)
