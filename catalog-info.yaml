@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: .github
+  description: Repository for .github
+  annotations:
+    business-unit: EverHealth
+    github.com/project-slug: updox/.github
+    product: UPD
+spec:
+  type: service
+  lifecycle: production
+  owner: EverHealth
+  implementation:
+    languages: []
